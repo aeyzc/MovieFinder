@@ -87,7 +87,7 @@ while True:
 
     clear(1)
 
-    pointSelect=input('''"Choice Points Range
+    pointSelect=input('''Choice Points Range
 1-(0-10)    2-(8-10)  3-(7-8)
 4-(6-7)     5-(5-6)   6-(4-5)
 7-(0-4)     8-Enter Range
