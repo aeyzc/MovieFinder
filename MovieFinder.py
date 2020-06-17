@@ -1,13 +1,6 @@
 import os
 import time
-while True:
-    try:
-        import pandas as pd
-    except Exception:
-        os.system("pip install pandas")
-        time.sleep(3)
-    else:
-        break
+import pandas as pd
 
 def clear(a):
     if os.name=="nt":
